@@ -17,3 +17,7 @@ IPv4 address:
 - IPv4 address is a series of numbers and dots, the string of
  numbers is separated by the dots into four sections.
 - Each number can be in the range of [0,255].
+
+If the input file’s name is entries.txt, the program should be run as:
+
+$ python extract_entries.py entries.txt
